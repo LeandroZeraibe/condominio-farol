@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Leonardo_Phoenix_10_Create_a_photograph_that_captures_a_vibran_0.jpg"
     width="300"
 />
 </p>
