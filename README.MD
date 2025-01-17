@@ -69,6 +69,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 
----
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
